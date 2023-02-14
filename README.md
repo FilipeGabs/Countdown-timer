@@ -1,9 +1,10 @@
-<a href="index.html">
-<img style="width: 500px;" src="./assets/image_preview.png">
-</a>
  <h1>Countdown Timer :hourglass:</h1>
 
 This is my first repository on GitHub :tada: , and it contains a simple application built with pure HTML, CSS and JavaScript. The application is a countdown timer that points to a pre-configured specific date.
+
+<a href="https://filipegabs.github.io/Countdown-timer/">
+<img style="width: 500px;" src="./assets/image_preview.png">
+</a>
 
 ## How it works 
 The application displays the countdown to the configured date, showing the number of remaining days, hours, minutes, and seconds until the expiration date. The user can configure the expiration date through the source code, changing the date specified in the `countdownDate` variable.
