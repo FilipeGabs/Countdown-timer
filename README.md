@@ -1,5 +1,5 @@
 <a href="index.html">
-<img src="./assets/image_preview.png">
+<img style="width: 500px;" src="./assets/image_preview.png">
 </a>
  <h1>Countdown Timer :hourglass:</h1>
 
