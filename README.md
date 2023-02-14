@@ -2,7 +2,7 @@
 
 This is my first repository on GitHub :tada: , and it contains a simple application built with pure HTML, CSS and JavaScript. The application is a countdown timer that points to a pre-configured specific date.
 
-<a target="_blank" href="https://filipegabs.github.io/Countdown-timer/">
+<a href="https://filipegabs.github.io/Countdown-timer/" target="_blank">
 <img style="width: 500px;" src="./assets/image_preview.png">
 </a>
 
